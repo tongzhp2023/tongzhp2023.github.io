@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Zhixin LIU",
+    "name": "Zhanpeng TONG",
     "label": "student",
     "image": "",
-    "email": "liuzx19@outlook.com",
+    "email": "2500914533@qq.com",
     "phone": "",
-    "url": "https://Brise0210.github.io/",
+    "url": "https://tongzhp2023.github.io/",
     "summary": "",
     "location": {
       "address": "No.163 Xianlin Avenue",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "ResearchGate",
-        "username": "Zhixin_Liu16",
-        "url": "https://www.researchgate.net/profile/Zhixin_Liu16"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -38,15 +38,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Nanjing Univerist",
+      "institution": "Nanjing University",
       "url": "",
       "school": "Journalism and Communication",
       "studyType": "Bachelor",
-      "startDate": "2017-09-01",
-      "endDate": "2021-06-30",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-30",
       "score": "4.42/5",
       "courses": [
-        "Advertising"
+        "Journalism"
       ]
     }
   ],
