@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Brise0210 # your GitHub user name
+github_username: tongzhp2023 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -82,7 +82,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: Zhixin_Liu16 # your profile on ResearchGate
+research_gate_profile:  # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -95,7 +95,7 @@ kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
-unsplash_id: brise0210 # your unsplash id
+unsplash_id: tongzhp2023 # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
@@ -120,8 +120,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: tongzhp2023 # blog_name will be displayed in your blog page
+blog_nav_title: tzp # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -148,7 +148,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: tongzhp2023 # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [LIU]
-  first_name: [Zhixin]
+  last_name: [TONG]
+  first_name: [Zhanpeng]
 
   style: apa
   locale: en
