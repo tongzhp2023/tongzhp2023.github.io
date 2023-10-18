@@ -2,20 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Nanjing University, Journalism and Communication School
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>No.163 Xianlin Avenue, Qixia District </p>
+    <p>Nanjing, Jiangsu Province, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -29,5 +28,5 @@ In September 2023, I will study for a master's degree in Nanjing University, maj
 
 My current courses include :(1) Theory of Journalism (2) Theory of Communication (3) Research Design and Methods (4) Computational Communication (5) History of journalism
 
-<img src="/assets/img/IMG_1443.JPG" align = "middle" width ="800px">
+<img src="/assets/img/证件照.JPG" align = "middle" width ="800px">
  
