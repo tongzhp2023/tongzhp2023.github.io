@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: nanjing university jc tzp # the website title (if blank, full name will be used instead)
-first_name: zhan
-middle_name: peng
+first_name:zhan
+middle_name:peng
 last_name:tong
 email: 2500914533@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
