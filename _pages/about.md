@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Nanjing University, Journalism and Commu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 证件照.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>No.163 Xianlin Avenue, Qixia District </p>
