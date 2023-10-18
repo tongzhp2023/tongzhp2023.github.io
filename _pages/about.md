@@ -19,8 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Tong Zhanpeng was born in Anhui Province in 1999.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In September 2019, I entered the School of Journalism and Communication (formerly the School of Communication and Design) of Sun Yat-sen University. Majoring in journalism. In college, I studied advertising, journalism, communication and other courses, and mastered relevant professional skills.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from Sun Yat-sen University in June 2023 with a Bachelor of Arts degree.
+
+In September 2023, I will study for a master's degree in Nanjing University, majoring in journalism and communication. My current research interests include collective memory and journalistic innovation.
+
+My current courses include :(1) Theory of Journalism (2) Theory of Communication (3) Research Design and Methods (4) Computational Communication (5) History of journalism
+
+<img src="/assets/img/IMG_1443.JPG" align = "middle" width ="800px">
+ 
